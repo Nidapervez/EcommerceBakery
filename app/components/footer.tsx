@@ -26,7 +26,7 @@ export default function Footer() {
             <nav className="flex space-x-4 mb-10">
               <li>
                 <a 
-                  href="https://portfolio-nida-pervezs-projects.vercel.app/" 
+                  href="https://second-mile-stone-96sf.vercel.app/project" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="text-gray-600 hover:text-gray-800"
